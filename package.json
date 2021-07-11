@@ -1,0 +1,23 @@
+{
+  "name": "bhavesharma",
+  "version": "1.10.4",
+  "description": "Bhavesh Sharma (@Bhavesharma11)'s business card",
+  "main": "./bin/card.js",
+  "bin": {
+    "rajitaroy": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bhavesharma11/Profile-Card.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Bhavesh Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0"
+  }
+}
